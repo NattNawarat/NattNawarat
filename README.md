@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- LinkedIn: [Nattapong Nawarattanapong](https://www.linkedin.com/in/nattapong-naw/)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=NattNawarat&title=MultiLanguage,Stars,Repositories,Commit)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NattNawarat&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
